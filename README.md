@@ -51,5 +51,8 @@
 ---
 ## 🖼️ Schematic
 
+<img src="./Schematic_SiA_2026-04-22.png">
+
+---
 **Author:** [Aleksa Antic]  
 **Project:** PicoProx Proximity Control System for Raspberry Pi Pico
