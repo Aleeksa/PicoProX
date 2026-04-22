@@ -46,9 +46,10 @@
 
 1.  **Flash the Pico:** Upload `pico_main.py` to your Raspberry Pi Pico using Thonny IDE.
 2.  **Hardware Setup:** Connect the sensors, servo, and LEDs according to the wiring diagram.
-3.  **Run the Dashboard:** Install dependencies via `pip install pyserial` and launch `dashboard_app.py` on your computer.
+3.  **Run the Dashboard:** Install dependencies via `pip install pyserial` and launch `gui_app.py` on your computer.
 
 ---
+## 🖼️ Schematic
 
-**Author:** [Your Name]  
+**Author:** [Aleksa Antic]  
 **Project:** PicoProx Proximity Control System for Raspberry Pi Pico
