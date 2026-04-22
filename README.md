@@ -49,10 +49,10 @@
 3.  **Run the Dashboard:** Install dependencies via `pip install pyserial` and launch `gui_app.py` on your computer.
 
 ---
-## 🖼️ Schematic
+## 🖼️ Schematic and App Gui
 
 <img src="./Schematic_SiA_2026-04-22.png">
-
+<img src="./app_gui.png">
 ---
 **Author:** [Aleksa Antic]  
 **Project:** PicoProx Proximity Control System for Raspberry Pi Pico
